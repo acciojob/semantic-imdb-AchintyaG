@@ -14,15 +14,7 @@ header{
     color: aliceblue;
 }
 .container{
-    display: flex;
+   
     height: 100%;
     
-}
-.actor-container{
-    display: flex;
-    flex-flow: wrap;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-
 }
